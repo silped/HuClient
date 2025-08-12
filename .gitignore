@@ -1,0 +1,22 @@
+# Visual Studio
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+
+# Build files
+Build/
+Binaries/
+DerivedDataCache/
+Intermediate/
+
+# Saved files
+Saved/
+
+# Other
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
