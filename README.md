@@ -5,3 +5,5 @@ Socket->Send( Request );
 같은 방식이 아니라
 GameLogic->Login();
 방식으로 사용한다.
+
+구조는 Source/HuClient/HuCommon 경로의 소스를 참고한다.
